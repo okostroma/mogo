@@ -29,7 +29,7 @@ You can create a beautiful website by using this creative template.
 Before instaling Gulp download JavaScript runtime built - Node.js https://nodejs.org/en/. You can use terminal of Node.js or your local terminal in VSCode, Sublime Text 3, etc.
 1. Install the gulp command line utility
    npm install --global gulp-cli
-2. Create a project directory and navigate into it  
+2. Create a project directory and navigate into it
   npx mkdirp my-project
   cd my-project
   
