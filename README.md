@@ -31,10 +31,10 @@ Before instaling Gulp download JavaScript runtime built - Node.js https://nodejs
    npm install --global gulp-cli
 2. Create a project directory and navigate into it:
 
-  2.1 npx mkdirp my-project  
-  2.2 cd my-project
+   2.1 npx mkdirp my-project  
+   2.2 cd my-project
   
-  Or invoke The Right-click menu in your folder and choose
+   Or invoke The Right-click menu in your folder and choose
   
 3. Create a package.json file in your project directory:
   npm init
