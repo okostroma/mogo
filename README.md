@@ -34,10 +34,11 @@ Before instaling Gulp download JavaScript runtime built - Node.js https://nodejs
   cd my-project
   
   Or invoke The Right-click menu in your folder and choose
+  
 3. Create a package.json file in your project directory
   npm init
 4. Install the gulp package in your devDependencies
-  npm install --save-dev gulp
+  npm install --save-dev gulp  
 5. Verify your gulp versions
   gulp --version
 6. Create a gulpfile
