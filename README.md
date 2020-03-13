@@ -52,11 +52,13 @@ Before instaling Gulp download JavaScript runtime built - Node.js https://nodejs
  1. Ruby
  
     1.1 Download and Install Ruby https://rubyinstaller.org/ 
+    
     1.2 In command line write: gem install sass
 	 
  2. NodeJS
  
     1.1 Download and Install NodeJS https://nodejs.org/en/download/
+    
     1.2 In command line write: npm install -g sass
 	 
 For more information you can visit https://sass-lang.com/ and https://www.npmjs.com/
