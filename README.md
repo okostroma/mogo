@@ -15,7 +15,7 @@ You can create a beautiful website by using this creative template.
 
 1. HTML5
 2. CSS3
-3. JS
+3. JS (Loader, Slider, Fixed header, scrolling, accordion, mobile-menu)
 4. Slick library (more information: https://kenwheeler.github.io/slick/)
 5. Fontawesome library (more information: https://fontawesome.com/)
 6. Methodology BEM (Page gallery.html , link is located in Section Some of our work - CREATIVELY DESIGN)
